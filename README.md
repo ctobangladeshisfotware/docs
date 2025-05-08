@@ -1,1 +1,1 @@
-# follow [porcess](process.md)
+# follow [process](./process)
